@@ -1,0 +1,12 @@
+{
+    "name": "ultrabook/v1",
+    "authors": [
+        {
+            "name": "Elin Lagos",
+            "email": "elin_lagos@yahoo.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}

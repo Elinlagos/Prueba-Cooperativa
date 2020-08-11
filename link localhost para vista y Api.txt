@@ -1,0 +1,6 @@
+direccion para entrar a la vista:
+http://localhost/cambioMonedas/V1/vista.html
+
+
+direccion para entrar a la api:
+http://localhost/cambioMonedas/post.php
